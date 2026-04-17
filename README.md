@@ -38,5 +38,28 @@ Used Merge Sort for student ranking, with **O(nlogn)** time complexity, much fas
 ## How to Run
 Download the file name Program and run main.py
 
+---
+
 ## Introduction video
 https://youtu.be/Tg69ZSWtuLs
+
+---
+
+## Contribution
+- So Tsz Tsun (14268617)
+  - Design overall code framework
+  - Write student_manager.py
+  - Beautify program output
+  - Write README.md
+  - Introduction video
+  - Debug
+- WU Hao (14006039)
+  - Write main.py
+  - Write task1 Report
+  - Debug
+  - write testing document
+- Cheng Xiang Wei (14175935)
+  - Write student.py
+  - Write task2 Report
+  - Debug
+  - write testing document
