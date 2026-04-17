@@ -1,6 +1,6 @@
 # Student Score Management System
 
-This is a course project for **HKMU COMP2090SEF
+This is a course project for **HKMU COMP2090SEF**
 
 A simple student score management system, support class filtering, auto ID generation, score ranking and statistics.
 
@@ -36,5 +36,7 @@ Used Merge Sort for student ranking, with **O(nlogn)** time complexity, much fas
 ---
 
 ## How to Run
-```bash
-python main.py
+Download the file name Program and run main.py
+
+## Introduction video
+https://youtu.be/Tg69ZSWtuLs
